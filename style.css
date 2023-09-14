@@ -1,0 +1,41 @@
+body{
+    background-image: url(set-of-icons-on-the-theme-of-food-food-doodle-with-food-icons-on-white-background-free-vector.jpg);
+}
+
+*{
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+h1{
+   font-size: 60px;
+    letter-spacing: 5px;
+    color: rgb(0, 0, 0);
+    background-image: url(6d561e7b3158ccfb1bd37771b32601aa.jpg);
+    background-size: 200px;
+    border-style: dashed;
+    padding: 10px;
+}
+
+h2{
+    font-size: 40px;
+    letter-spacing: 5px;
+    border-style: dashed;
+    background-color: rgba(238, 102, 12, 0.897);
+}
+
+#buscar {
+    border-style: dashed;
+    background-color: rgba(238, 102, 12, 0.897);
+    padding: 50px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+#infoReceta {
+    background-color: rgba(238, 102, 12, 0.897);
+    margin-bottom: 50px;
+    font-size: 15px;
+}
